@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John Miller
+- 👋 Hi, I’m John 
 - 👀 I’m interested in ... Cyber Security 
 - 🌱 I’m currently learning ... Cybersecurity
 
